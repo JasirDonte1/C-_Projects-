@@ -1,9 +1,5 @@
 //
-//  main.c
-//  Midterm Project P2
-//
-//  Created by Jasir Massey-Campbell on 12/28/18.
-//  Copyright © 2018 Jasir Massey-Campbell. All rights reserved.
+
 //
 
 #include <stdio.h>
